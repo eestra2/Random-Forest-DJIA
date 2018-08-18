@@ -11,10 +11,10 @@ This walk-through assumes some basic Python knowledge, finance principles, and  
 
 **Dependencies:**
 
-pandas
-numpy
-nltk
-unicodedata
-treeinterpreter
-sklearn
-matplotlib
+pandas,
+numpy,
+nltk,
+unicodedata,
+treeinterpreter,
+sklearn,
+matplotlib,
